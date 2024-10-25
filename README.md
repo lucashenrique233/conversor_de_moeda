@@ -11,6 +11,28 @@
  * Botão de reset para limpar os campos
  * Exibição do resultado da conversão
 
+ # Organização do Código
+
+*  O código está organizado de forma clara e estruturada, facilitando a compreensão e manutenção. As seções do código estão separadas por comentários, tornando fácil a identificação de cada parte do projeto.
+
+# Responsividade
+
+ O projeto foi desenvolvido com responsividade em mente, garantindo que a página se adapte a diferentes tamanhos de tela e dispositivos. Isso significa que o conversor de moedas pode ser utilizado em:
+
+ * 1 Desktop: A página se adapta a telas de computador, oferecendo uma experiência de usuário agradável e fácil de usar.
+ * 2 Tablets: A página se adapta a telas de tablets, permitindo que os usuários utilizem o conversor de moedas de forma confortável.
+ * 3 Smartphones: A página se adapta a telas de smartphones, permitindo que os usuários utilizem o conversor de moedas em qualquer lugar.
+
+ # Usabilidade
+
+O projeto foi desenvolvido com usabilidade em mente, garantindo que a página seja fácil de usar e intuitiva para os usuários.
+ Aqui estão algumas características que contribuem para a usabilidade do projeto:
+
+ * 1 Interface Simples: A página tem uma interface simples e limpa, tornando fácil para os usuários encontrar o que precisam.
+ * 2 Campos de Entrada Claros: Os campos de entrada são claros e bem definidos, tornando fácil para os usuários inserir os valores corretos.
+ * 3 Botões de Ação Claros: Os botões de ação são claros e bem definidos, tornando fácil para os usuários realizar a conversão ou resetar os campos.
+ * 4 Resultado da Conversão: O resultado da conversão é exibido de forma clara e fácil de entender, tornando fácil para os usuários visualizar o resultado da conversão.
+
 # Tecnologias Utilizadas
 
  * HTML5 para estruturação da página
@@ -34,3 +56,10 @@
 
 * Este projeto é de código aberto e aceita contribuições. Se você deseja melhorar ou adicionar funcionalidades, por favor, faça um fork do repositório e envie um pull request com suas alterações.
 
+## imagem do trabalho 
+
+![teladeinicio](print.jpeg)
+
+# imagem do codigo funcionando 
+
+![codigofuncionado](printt.jpeg)
