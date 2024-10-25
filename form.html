@@ -1,21 +1,10 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='form.css'>
-    <script src='form.js'></script>
-</head>
-<body>
-    <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conversor de Moedas</title>
-    <link rel="stylesheet" href="conver.css">
+    <link rel="stylesheet" href="form.css">
 </head>
 <body>
     <header>
@@ -28,8 +17,8 @@
                 <label for="amount">Valor:</label>
                 <input type="number" id="amount" placeholder="Insira o valor" required>
                
-                <label for="from-currency">Moeda de Origem:</label>
-                <select id="from-currency" required>
+                <label for="daMoeda">Moeda de Origem:</label>
+                <select id="daMoeda" required>
                     <option value="USD">Dólar (USD)</option>
                     <option value="EUR">Euro (EUR)</option>
                     <option value="BRL">Real (BRL)</option>
@@ -38,27 +27,21 @@
  
             <section>
                 <h2>Moeda de Destino</h2>
-                <label for="to-currency">Selecionar Moeda:</label>
-                <select id="to-currency" required>
+                <label for="paraMoeda">Selecionar Moeda:</label>
+                <select id="paraMoeda" required>
                     <option value="USD">Dólar (USD)</option>
                     <option value="EUR">Euro (EUR)</option>
                     <option value="BRL">Real (BRL)</option>
                 </select>
             </section>
  
-            <button type="button" id="convert-btn">Converter</button>
-            <br> <br>
+            <button type="submit" id="convert-btn">Converter</button>
             <button type="reset" id="reset-btn">Resetar</button>
         </form>
  
-        <section id="result-section">
-            <h2>conversão</h2>
             <p id="result"></p>
-        </section>
     </main>
  
-    <script src="conver.js"></script>
-</body>
-</html>
+    <script src="form.js"></script>
 </body>
 </html>
