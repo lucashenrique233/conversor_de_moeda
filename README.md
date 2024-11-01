@@ -60,6 +60,14 @@ O projeto foi desenvolvido com usabilidade em mente, garantindo que a página se
 
 ![teladeinicio](print.jpeg)
 
+
+## imagem do java
+
+
+![](Captura%20de%20tela%202024-10-25%20093228.png)
+
+
+
 # imagem do codigo funcionando 
 
 ![codigofuncionado](printt.jpeg)

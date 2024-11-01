@@ -24,4 +24,4 @@ document.getElementById ('currency-converter').addEventListener('submit', functi
  
     const conversao = document.getElementById('result')
     conversao.textContent = `Resultado: ${valorConvertido.toFixed(2)} ${paraMoeda}` ;
-});
+});S
